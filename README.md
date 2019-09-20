@@ -1,1 +1,1 @@
-# Shailndra-sampleDockerizedApp
+#sampleDockerizedApp
